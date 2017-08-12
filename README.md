@@ -1,0 +1,3 @@
+# rainyShinyCloudy
+Exercise 
+Fixed: Functional.
